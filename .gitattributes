@@ -1,0 +1,4 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+Fussfinger.mp4 filter=lfs diff=lfs merge=lfs -text
+gender.mp4 filter=lfs diff=lfs merge=lfs -text
+vorne.mp4 filter=lfs diff=lfs merge=lfs -text
