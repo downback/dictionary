@@ -1,0 +1,31 @@
+
+.fussfinger {
+    width: 40vw;
+    height: auto;
+    position: absolute;
+    left: 10rem;
+    top: 8rem;
+    visibility:hidden;
+}
+
+.vorne {
+    width: 30vw;
+    height: auto;
+    position: absolute;
+    right: 10rem;
+    top: 20rem;
+    visibility:hidden;
+}
+
+.gender {
+    width: 35vw;
+    height: auto;
+    position: absolute;
+    left: 30rem;
+    top: 15rem;
+    visibility:hidden;
+}
+
+.visible {
+    visibility: visible;
+}

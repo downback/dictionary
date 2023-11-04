@@ -1,0 +1,40 @@
+.alphabet-container {
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: fixed;
+    bottom: 0.8rem;
+    
+}
+
+.alphabet {
+    background-color: transparent;
+    border: none;
+    color: black;
+    font-size: 1rem;
+    transition: all 0.3s;
+}
+
+/* Define the hover effect with a random rotation */
+.alphabet:hover {
+    animation: rotate 0.5s ease-in-out;
+    margin-top: -1rem;
+    transform: scale(2);
+}
+
+.alphabet:active {
+    margin-top: -1rem;
+    transform: scale(2);
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(400deg);
+    }
+}
+
+
