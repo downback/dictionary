@@ -26,6 +26,15 @@
     visibility:hidden;
 }
 
+.fruchtfleisch {
+    width: 50vw;
+    height: auto;
+    position: absolute;
+    left: 20rem;
+    top: 10rem;
+    visibility:hidden;
+}
+
 .visible {
     visibility: visible;
 }
