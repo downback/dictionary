@@ -1,0 +1,12 @@
+ul a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.5rem;
+    position:fixed;
+    right: 1rem;
+    top: 1rem;
+}
+
+.fussfinger {
+    width: 50vw;
+}
